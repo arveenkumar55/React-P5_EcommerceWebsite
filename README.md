@@ -31,9 +31,6 @@ https://reactjs-ecommerce-app.vercel.app/
 
 Go to the project directory
 
-```bash
-  cd React_E-Commerce
-```
 
 Install dependencies
 
