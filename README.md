@@ -13,9 +13,16 @@ https://reactjs-ecommerce-app.vercel.app/
 - Fully Responsive
 
 
-## Screenshots
+## Some Shots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+!['mui'](./showcase/shot1.png)
+
+!['mui'](./showcase/shot2.png)
+
+!['mui'](./showcase/shot3.png)
+
+!['mui'](./showcase/shot4.png)
+
 
 
 
